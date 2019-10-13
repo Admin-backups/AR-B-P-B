@@ -43,7 +43,7 @@ A=SS
 ## 安装 ##
     wget -N --no-check-certificate https://raw.githubusercontent.com/Admin-backups/AR-B-P-B/master/install.sh && bash install.sh
     
-## 高级版 安装-非官方项目！##
+## 高级版-非官方项目 ##
     wget -N --no-check-certificate https://raw.githubusercontent.com/Admin-backups/AR-B-P-B/master/develop-install.sh && bash develop-install.sh
 
 ## 自检 ##
